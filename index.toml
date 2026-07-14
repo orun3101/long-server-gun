@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/acceleratedrendering.pw.toml"
+hash = "256861f2a18928f9f3635ac5c398cb1cf95b4281a74cbb52c5048e65c1509045"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "7bf1c35d2515b8cb8464fb99ef2a14d81a86b88fd9c8631b1d775f7b47586049"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7940f5676ca5f8212723bb1f7f75d59771a11e6125f91d1f46865ca77a235923"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "e729d504da09150cc89189e0422b7e8fa8a34169a80ec5deed7f644b4b8a9593"
+metafile = true
+
+[[files]]
+file = "mods/tacz.pw.toml"
+hash = "37b5395ba80df7b4da6f09cb7f344c9c903832e0106bb41368ee01083f377a36"
+metafile = true
+
+[[files]]
+file = "mods/shouldersurfing.pw.toml"
+hash = "0fe26a5597b7bc588f00cc13cf0d72fc141ae926c26c92e0c87e5e60791bccd6"
+metafile = true

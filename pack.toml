@@ -1,0 +1,13 @@
+name = "Long Server Gun"
+author = "orun3101"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[versions]
+minecraft = "1.20.1"
+forge = "47.4.10"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8a688271ba2931c8b92c2b491d80b0ff0e56df0c4a1146a11e7e40ad9ee9d026"
