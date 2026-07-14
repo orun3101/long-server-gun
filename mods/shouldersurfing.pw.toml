@@ -1,0 +1,8 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Forge-1_20_1-5_0_6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/ShoulderSurfing-Forge-1_20_1-5_0_6.jar"
+hash-format = "sha256"
+hash = "3fc437f6473d6095a1bc25d9d3e2f5370c3d4099ac323c2baaf45ac542f5e89e"

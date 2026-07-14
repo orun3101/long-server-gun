@@ -1,0 +1,8 @@
+name = "Embeddium"
+filename = "embeddium-0_3_31_mc1_20_1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/embeddium-0_3_31_mc1_20_1.jar"
+hash-format = "sha256"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"

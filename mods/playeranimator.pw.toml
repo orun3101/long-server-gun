@@ -1,0 +1,8 @@
+name = "Player Animation Library"
+filename = "player-animation-lib-forge-1_0_2-rc1_1_20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/player-animation-lib-forge-1_0_2-rc1_1_20.jar"
+hash-format = "sha256"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
