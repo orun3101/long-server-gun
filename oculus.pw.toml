@@ -1,8 +1,0 @@
-name = "Oculus"
-filename = "oculus-mc1_20_1-1_8_0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/oculus-mc1_20_1-1_8_0.jar"
-hash-format = "sha256"
-hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
