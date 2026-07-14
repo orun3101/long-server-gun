@@ -1,8 +1,0 @@
-name = "AcceleratedRendering"
-filename = "acceleratedrendering-1_0_12-1_20_1-alpha.jar"
-side = "both"
-
-[download]
-url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/acceleratedrendering-1_0_12-1_20_1-alpha.jar"
-hash-format = "sha256"
-hash = "8602d24b136d3b8523d273e08bdb2cf53b28151261a14160e643a5b3927326ed"
