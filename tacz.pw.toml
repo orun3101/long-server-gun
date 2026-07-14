@@ -1,8 +1,0 @@
-name = "TACZ"
-filename = "tacz-1_20_1-1_1_8-hotfix.jar"
-side = "both"
-
-[download]
-url = "https://github.com/orun3101/long-server-gun/releases/download/v1.0/tacz-1_20_1-1_1_8-hotfix.jar"
-hash-format = "sha256"
-hash = "9ed8ada1283ed7a793a70cc1b51c4a340f367ce84707e1a7b8cf21ee3d288d77"
